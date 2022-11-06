@@ -1,0 +1,9 @@
+.word-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.word-wrapper {
+  border-bottom: 2px solid;
+}
